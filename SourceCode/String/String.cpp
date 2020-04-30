@@ -12,6 +12,11 @@ void toLower( char string[] ) {
 	printf("Making String LOWER...");	
 }
 
+// Following Function Added In Master Branch
+void toTitle( char string[] ) {
+	printf("Making String LOWER...");	
+}
+
 int main() {
 	char greet[] = "Hello World!";
 
