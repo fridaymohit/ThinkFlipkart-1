@@ -2,8 +2,9 @@
 #include <math.h>
 
 int sum(int x, int y) {
-// CHANGES IN MASTER BRANCH
-  return (x + y);
+  	int result = 0;
+	result = x + y;
+	return result;
 }
 
 int sub(int x, int y) {

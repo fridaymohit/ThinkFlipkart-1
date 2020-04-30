@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// String Module
+// Contains String Functions
+
 void greetings( char hello[]) {
 	printf("\n%s", hello);
 }
