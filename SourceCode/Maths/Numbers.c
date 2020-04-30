@@ -2,7 +2,10 @@
 #include <math.h>
 
 int sum(int x, int y) {
-  return x + y;
+// CHANGES DONE IN BUGFIX BRANCH
+  	int result = 0;
+	result = x + y;
+	return result;
 }
 
 int sub(int x, int y) {
