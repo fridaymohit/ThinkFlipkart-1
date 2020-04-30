@@ -2,11 +2,15 @@
 #include <math.h>
 
 int sum(int x, int y) {
-  return x + y;
+// CHANGES IN MASTER BRANCH
+  return (x + y);
 }
 
 int sub(int x, int y) {
-  return x - y;
+// CHANGES IN MASTER BRANCH
+  int result = 0;
+  resutl = x - y;
+  return result;
 }
 
 // Following Function Added In Testing Branch
